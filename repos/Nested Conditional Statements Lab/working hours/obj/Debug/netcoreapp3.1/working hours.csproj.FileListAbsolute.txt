@@ -1,0 +1,13 @@
+C:\Users\andon\source\repos\Nested Conditional Statements Lab\working hours\bin\Debug\netcoreapp3.1\working hours.exe
+C:\Users\andon\source\repos\Nested Conditional Statements Lab\working hours\bin\Debug\netcoreapp3.1\working hours.deps.json
+C:\Users\andon\source\repos\Nested Conditional Statements Lab\working hours\bin\Debug\netcoreapp3.1\working hours.runtimeconfig.json
+C:\Users\andon\source\repos\Nested Conditional Statements Lab\working hours\bin\Debug\netcoreapp3.1\working hours.runtimeconfig.dev.json
+C:\Users\andon\source\repos\Nested Conditional Statements Lab\working hours\bin\Debug\netcoreapp3.1\working hours.dll
+C:\Users\andon\source\repos\Nested Conditional Statements Lab\working hours\bin\Debug\netcoreapp3.1\working hours.pdb
+C:\Users\andon\source\repos\Nested Conditional Statements Lab\working hours\obj\Debug\netcoreapp3.1\working hours.csprojAssemblyReference.cache
+C:\Users\andon\source\repos\Nested Conditional Statements Lab\working hours\obj\Debug\netcoreapp3.1\working hours.AssemblyInfoInputs.cache
+C:\Users\andon\source\repos\Nested Conditional Statements Lab\working hours\obj\Debug\netcoreapp3.1\working hours.AssemblyInfo.cs
+C:\Users\andon\source\repos\Nested Conditional Statements Lab\working hours\obj\Debug\netcoreapp3.1\working hours.csproj.CoreCompileInputs.cache
+C:\Users\andon\source\repos\Nested Conditional Statements Lab\working hours\obj\Debug\netcoreapp3.1\working hours.dll
+C:\Users\andon\source\repos\Nested Conditional Statements Lab\working hours\obj\Debug\netcoreapp3.1\working hours.pdb
+C:\Users\andon\source\repos\Nested Conditional Statements Lab\working hours\obj\Debug\netcoreapp3.1\working hours.genruntimeconfig.cache

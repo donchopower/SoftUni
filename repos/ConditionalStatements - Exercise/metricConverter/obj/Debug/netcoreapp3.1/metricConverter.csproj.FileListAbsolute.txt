@@ -1,0 +1,13 @@
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\metricConverter\bin\Debug\netcoreapp3.1\metricConverter.exe
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\metricConverter\bin\Debug\netcoreapp3.1\metricConverter.deps.json
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\metricConverter\bin\Debug\netcoreapp3.1\metricConverter.runtimeconfig.json
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\metricConverter\bin\Debug\netcoreapp3.1\metricConverter.runtimeconfig.dev.json
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\metricConverter\bin\Debug\netcoreapp3.1\metricConverter.dll
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\metricConverter\bin\Debug\netcoreapp3.1\metricConverter.pdb
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\metricConverter\obj\Debug\netcoreapp3.1\metricConverter.csprojAssemblyReference.cache
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\metricConverter\obj\Debug\netcoreapp3.1\metricConverter.AssemblyInfoInputs.cache
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\metricConverter\obj\Debug\netcoreapp3.1\metricConverter.AssemblyInfo.cs
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\metricConverter\obj\Debug\netcoreapp3.1\metricConverter.csproj.CoreCompileInputs.cache
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\metricConverter\obj\Debug\netcoreapp3.1\metricConverter.dll
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\metricConverter\obj\Debug\netcoreapp3.1\metricConverter.pdb
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\metricConverter\obj\Debug\netcoreapp3.1\metricConverter.genruntimeconfig.cache

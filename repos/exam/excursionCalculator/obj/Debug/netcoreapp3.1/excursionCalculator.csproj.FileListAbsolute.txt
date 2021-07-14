@@ -1,0 +1,13 @@
+C:\Users\andon\source\repos\exam\excursionCalculator\bin\Debug\netcoreapp3.1\excursionCalculator.exe
+C:\Users\andon\source\repos\exam\excursionCalculator\bin\Debug\netcoreapp3.1\excursionCalculator.deps.json
+C:\Users\andon\source\repos\exam\excursionCalculator\bin\Debug\netcoreapp3.1\excursionCalculator.runtimeconfig.json
+C:\Users\andon\source\repos\exam\excursionCalculator\bin\Debug\netcoreapp3.1\excursionCalculator.runtimeconfig.dev.json
+C:\Users\andon\source\repos\exam\excursionCalculator\bin\Debug\netcoreapp3.1\excursionCalculator.dll
+C:\Users\andon\source\repos\exam\excursionCalculator\bin\Debug\netcoreapp3.1\excursionCalculator.pdb
+C:\Users\andon\source\repos\exam\excursionCalculator\obj\Debug\netcoreapp3.1\excursionCalculator.csprojAssemblyReference.cache
+C:\Users\andon\source\repos\exam\excursionCalculator\obj\Debug\netcoreapp3.1\excursionCalculator.AssemblyInfoInputs.cache
+C:\Users\andon\source\repos\exam\excursionCalculator\obj\Debug\netcoreapp3.1\excursionCalculator.AssemblyInfo.cs
+C:\Users\andon\source\repos\exam\excursionCalculator\obj\Debug\netcoreapp3.1\excursionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\andon\source\repos\exam\excursionCalculator\obj\Debug\netcoreapp3.1\excursionCalculator.dll
+C:\Users\andon\source\repos\exam\excursionCalculator\obj\Debug\netcoreapp3.1\excursionCalculator.pdb
+C:\Users\andon\source\repos\exam\excursionCalculator\obj\Debug\netcoreapp3.1\excursionCalculator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\andon\source\repos\exam26\puppyCare\obj\Debug\netcoreapp3.1\puppyCare.csprojAssemblyReference.cache
+C:\Users\andon\source\repos\exam26\puppyCare\obj\Debug\netcoreapp3.1\puppyCare.AssemblyInfoInputs.cache
+C:\Users\andon\source\repos\exam26\puppyCare\obj\Debug\netcoreapp3.1\puppyCare.AssemblyInfo.cs
+C:\Users\andon\source\repos\exam26\puppyCare\obj\Debug\netcoreapp3.1\puppyCare.csproj.CoreCompileInputs.cache
+C:\Users\andon\source\repos\exam26\puppyCare\bin\Debug\netcoreapp3.1\puppyCare.exe
+C:\Users\andon\source\repos\exam26\puppyCare\bin\Debug\netcoreapp3.1\puppyCare.deps.json
+C:\Users\andon\source\repos\exam26\puppyCare\bin\Debug\netcoreapp3.1\puppyCare.runtimeconfig.json
+C:\Users\andon\source\repos\exam26\puppyCare\bin\Debug\netcoreapp3.1\puppyCare.runtimeconfig.dev.json
+C:\Users\andon\source\repos\exam26\puppyCare\bin\Debug\netcoreapp3.1\puppyCare.dll
+C:\Users\andon\source\repos\exam26\puppyCare\bin\Debug\netcoreapp3.1\puppyCare.pdb
+C:\Users\andon\source\repos\exam26\puppyCare\obj\Debug\netcoreapp3.1\puppyCare.dll
+C:\Users\andon\source\repos\exam26\puppyCare\obj\Debug\netcoreapp3.1\puppyCare.pdb
+C:\Users\andon\source\repos\exam26\puppyCare\obj\Debug\netcoreapp3.1\puppyCare.genruntimeconfig.cache

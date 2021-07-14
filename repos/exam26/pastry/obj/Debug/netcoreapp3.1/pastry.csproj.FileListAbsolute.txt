@@ -1,0 +1,13 @@
+C:\Users\andon\source\repos\exam26\pastry\bin\Debug\netcoreapp3.1\pastry.exe
+C:\Users\andon\source\repos\exam26\pastry\bin\Debug\netcoreapp3.1\pastry.deps.json
+C:\Users\andon\source\repos\exam26\pastry\bin\Debug\netcoreapp3.1\pastry.runtimeconfig.json
+C:\Users\andon\source\repos\exam26\pastry\bin\Debug\netcoreapp3.1\pastry.runtimeconfig.dev.json
+C:\Users\andon\source\repos\exam26\pastry\bin\Debug\netcoreapp3.1\pastry.dll
+C:\Users\andon\source\repos\exam26\pastry\bin\Debug\netcoreapp3.1\pastry.pdb
+C:\Users\andon\source\repos\exam26\pastry\obj\Debug\netcoreapp3.1\pastry.csprojAssemblyReference.cache
+C:\Users\andon\source\repos\exam26\pastry\obj\Debug\netcoreapp3.1\pastry.AssemblyInfoInputs.cache
+C:\Users\andon\source\repos\exam26\pastry\obj\Debug\netcoreapp3.1\pastry.AssemblyInfo.cs
+C:\Users\andon\source\repos\exam26\pastry\obj\Debug\netcoreapp3.1\pastry.csproj.CoreCompileInputs.cache
+C:\Users\andon\source\repos\exam26\pastry\obj\Debug\netcoreapp3.1\pastry.dll
+C:\Users\andon\source\repos\exam26\pastry\obj\Debug\netcoreapp3.1\pastry.pdb
+C:\Users\andon\source\repos\exam26\pastry\obj\Debug\netcoreapp3.1\pastry.genruntimeconfig.cache

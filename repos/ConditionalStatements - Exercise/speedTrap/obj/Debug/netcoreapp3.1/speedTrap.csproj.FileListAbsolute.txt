@@ -1,0 +1,13 @@
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\speedTrap\bin\Debug\netcoreapp3.1\speedTrap.exe
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\speedTrap\bin\Debug\netcoreapp3.1\speedTrap.deps.json
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\speedTrap\bin\Debug\netcoreapp3.1\speedTrap.runtimeconfig.json
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\speedTrap\bin\Debug\netcoreapp3.1\speedTrap.runtimeconfig.dev.json
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\speedTrap\bin\Debug\netcoreapp3.1\speedTrap.dll
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\speedTrap\bin\Debug\netcoreapp3.1\speedTrap.pdb
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\speedTrap\obj\Debug\netcoreapp3.1\speedTrap.csprojAssemblyReference.cache
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\speedTrap\obj\Debug\netcoreapp3.1\speedTrap.AssemblyInfoInputs.cache
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\speedTrap\obj\Debug\netcoreapp3.1\speedTrap.AssemblyInfo.cs
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\speedTrap\obj\Debug\netcoreapp3.1\speedTrap.csproj.CoreCompileInputs.cache
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\speedTrap\obj\Debug\netcoreapp3.1\speedTrap.dll
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\speedTrap\obj\Debug\netcoreapp3.1\speedTrap.pdb
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\speedTrap\obj\Debug\netcoreapp3.1\speedTrap.genruntimeconfig.cache

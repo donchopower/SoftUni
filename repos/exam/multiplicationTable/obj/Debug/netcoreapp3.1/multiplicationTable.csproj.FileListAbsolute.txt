@@ -1,0 +1,12 @@
+C:\Users\andon\source\repos\exam\multiplicationTable\bin\Debug\netcoreapp3.1\multiplicationTable.exe
+C:\Users\andon\source\repos\exam\multiplicationTable\bin\Debug\netcoreapp3.1\multiplicationTable.deps.json
+C:\Users\andon\source\repos\exam\multiplicationTable\bin\Debug\netcoreapp3.1\multiplicationTable.runtimeconfig.json
+C:\Users\andon\source\repos\exam\multiplicationTable\bin\Debug\netcoreapp3.1\multiplicationTable.runtimeconfig.dev.json
+C:\Users\andon\source\repos\exam\multiplicationTable\bin\Debug\netcoreapp3.1\multiplicationTable.dll
+C:\Users\andon\source\repos\exam\multiplicationTable\bin\Debug\netcoreapp3.1\multiplicationTable.pdb
+C:\Users\andon\source\repos\exam\multiplicationTable\obj\Debug\netcoreapp3.1\multiplicationTable.AssemblyInfoInputs.cache
+C:\Users\andon\source\repos\exam\multiplicationTable\obj\Debug\netcoreapp3.1\multiplicationTable.AssemblyInfo.cs
+C:\Users\andon\source\repos\exam\multiplicationTable\obj\Debug\netcoreapp3.1\multiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\andon\source\repos\exam\multiplicationTable\obj\Debug\netcoreapp3.1\multiplicationTable.dll
+C:\Users\andon\source\repos\exam\multiplicationTable\obj\Debug\netcoreapp3.1\multiplicationTable.pdb
+C:\Users\andon\source\repos\exam\multiplicationTable\obj\Debug\netcoreapp3.1\multiplicationTable.genruntimeconfig.cache

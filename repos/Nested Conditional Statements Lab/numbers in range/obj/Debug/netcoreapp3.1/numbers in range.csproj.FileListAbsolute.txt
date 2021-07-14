@@ -1,0 +1,13 @@
+C:\Users\andon\source\repos\Nested Conditional Statements Lab\numbers in range\bin\Debug\netcoreapp3.1\numbers in range.exe
+C:\Users\andon\source\repos\Nested Conditional Statements Lab\numbers in range\bin\Debug\netcoreapp3.1\numbers in range.deps.json
+C:\Users\andon\source\repos\Nested Conditional Statements Lab\numbers in range\bin\Debug\netcoreapp3.1\numbers in range.runtimeconfig.json
+C:\Users\andon\source\repos\Nested Conditional Statements Lab\numbers in range\bin\Debug\netcoreapp3.1\numbers in range.runtimeconfig.dev.json
+C:\Users\andon\source\repos\Nested Conditional Statements Lab\numbers in range\bin\Debug\netcoreapp3.1\numbers in range.dll
+C:\Users\andon\source\repos\Nested Conditional Statements Lab\numbers in range\bin\Debug\netcoreapp3.1\numbers in range.pdb
+C:\Users\andon\source\repos\Nested Conditional Statements Lab\numbers in range\obj\Debug\netcoreapp3.1\numbers in range.csprojAssemblyReference.cache
+C:\Users\andon\source\repos\Nested Conditional Statements Lab\numbers in range\obj\Debug\netcoreapp3.1\numbers in range.AssemblyInfoInputs.cache
+C:\Users\andon\source\repos\Nested Conditional Statements Lab\numbers in range\obj\Debug\netcoreapp3.1\numbers in range.AssemblyInfo.cs
+C:\Users\andon\source\repos\Nested Conditional Statements Lab\numbers in range\obj\Debug\netcoreapp3.1\numbers in range.csproj.CoreCompileInputs.cache
+C:\Users\andon\source\repos\Nested Conditional Statements Lab\numbers in range\obj\Debug\netcoreapp3.1\numbers in range.dll
+C:\Users\andon\source\repos\Nested Conditional Statements Lab\numbers in range\obj\Debug\netcoreapp3.1\numbers in range.pdb
+C:\Users\andon\source\repos\Nested Conditional Statements Lab\numbers in range\obj\Debug\netcoreapp3.1\numbers in range.genruntimeconfig.cache

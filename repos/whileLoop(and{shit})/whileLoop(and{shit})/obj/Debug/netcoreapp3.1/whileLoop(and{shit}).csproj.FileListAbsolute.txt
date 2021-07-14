@@ -1,0 +1,13 @@
+C:\Users\andon\source\repos\whileLoop(and{shit})\whileLoop(and{shit})\bin\Debug\netcoreapp3.1\whileLoop(and{shit}).exe
+C:\Users\andon\source\repos\whileLoop(and{shit})\whileLoop(and{shit})\bin\Debug\netcoreapp3.1\whileLoop(and{shit}).deps.json
+C:\Users\andon\source\repos\whileLoop(and{shit})\whileLoop(and{shit})\bin\Debug\netcoreapp3.1\whileLoop(and{shit}).runtimeconfig.json
+C:\Users\andon\source\repos\whileLoop(and{shit})\whileLoop(and{shit})\bin\Debug\netcoreapp3.1\whileLoop(and{shit}).runtimeconfig.dev.json
+C:\Users\andon\source\repos\whileLoop(and{shit})\whileLoop(and{shit})\bin\Debug\netcoreapp3.1\whileLoop(and{shit}).dll
+C:\Users\andon\source\repos\whileLoop(and{shit})\whileLoop(and{shit})\bin\Debug\netcoreapp3.1\whileLoop(and{shit}).pdb
+C:\Users\andon\source\repos\whileLoop(and{shit})\whileLoop(and{shit})\obj\Debug\netcoreapp3.1\whileLoop(and{shit}).csprojAssemblyReference.cache
+C:\Users\andon\source\repos\whileLoop(and{shit})\whileLoop(and{shit})\obj\Debug\netcoreapp3.1\whileLoop(and{shit}).AssemblyInfoInputs.cache
+C:\Users\andon\source\repos\whileLoop(and{shit})\whileLoop(and{shit})\obj\Debug\netcoreapp3.1\whileLoop(and{shit}).AssemblyInfo.cs
+C:\Users\andon\source\repos\whileLoop(and{shit})\whileLoop(and{shit})\obj\Debug\netcoreapp3.1\whileLoop(and{shit}).csproj.CoreCompileInputs.cache
+C:\Users\andon\source\repos\whileLoop(and{shit})\whileLoop(and{shit})\obj\Debug\netcoreapp3.1\whileLoop(and{shit}).dll
+C:\Users\andon\source\repos\whileLoop(and{shit})\whileLoop(and{shit})\obj\Debug\netcoreapp3.1\whileLoop(and{shit}).pdb
+C:\Users\andon\source\repos\whileLoop(and{shit})\whileLoop(and{shit})\obj\Debug\netcoreapp3.1\whileLoop(and{shit}).genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\andon\source\repos\exam\grandpaStavri\bin\Debug\netcoreapp3.1\grandpaStavri.exe
+C:\Users\andon\source\repos\exam\grandpaStavri\bin\Debug\netcoreapp3.1\grandpaStavri.deps.json
+C:\Users\andon\source\repos\exam\grandpaStavri\bin\Debug\netcoreapp3.1\grandpaStavri.runtimeconfig.json
+C:\Users\andon\source\repos\exam\grandpaStavri\bin\Debug\netcoreapp3.1\grandpaStavri.runtimeconfig.dev.json
+C:\Users\andon\source\repos\exam\grandpaStavri\bin\Debug\netcoreapp3.1\grandpaStavri.dll
+C:\Users\andon\source\repos\exam\grandpaStavri\bin\Debug\netcoreapp3.1\grandpaStavri.pdb
+C:\Users\andon\source\repos\exam\grandpaStavri\obj\Debug\netcoreapp3.1\grandpaStavri.csprojAssemblyReference.cache
+C:\Users\andon\source\repos\exam\grandpaStavri\obj\Debug\netcoreapp3.1\grandpaStavri.AssemblyInfoInputs.cache
+C:\Users\andon\source\repos\exam\grandpaStavri\obj\Debug\netcoreapp3.1\grandpaStavri.AssemblyInfo.cs
+C:\Users\andon\source\repos\exam\grandpaStavri\obj\Debug\netcoreapp3.1\grandpaStavri.csproj.CoreCompileInputs.cache
+C:\Users\andon\source\repos\exam\grandpaStavri\obj\Debug\netcoreapp3.1\grandpaStavri.dll
+C:\Users\andon\source\repos\exam\grandpaStavri\obj\Debug\netcoreapp3.1\grandpaStavri.pdb
+C:\Users\andon\source\repos\exam\grandpaStavri\obj\Debug\netcoreapp3.1\grandpaStavri.genruntimeconfig.cache

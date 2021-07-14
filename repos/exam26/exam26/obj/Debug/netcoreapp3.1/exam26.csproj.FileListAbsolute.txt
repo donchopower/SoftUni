@@ -1,0 +1,13 @@
+C:\Users\andon\source\repos\exam26\exam26\bin\Debug\netcoreapp3.1\exam26.exe
+C:\Users\andon\source\repos\exam26\exam26\bin\Debug\netcoreapp3.1\exam26.deps.json
+C:\Users\andon\source\repos\exam26\exam26\bin\Debug\netcoreapp3.1\exam26.runtimeconfig.json
+C:\Users\andon\source\repos\exam26\exam26\bin\Debug\netcoreapp3.1\exam26.runtimeconfig.dev.json
+C:\Users\andon\source\repos\exam26\exam26\bin\Debug\netcoreapp3.1\exam26.dll
+C:\Users\andon\source\repos\exam26\exam26\bin\Debug\netcoreapp3.1\exam26.pdb
+C:\Users\andon\source\repos\exam26\exam26\obj\Debug\netcoreapp3.1\exam26.csprojAssemblyReference.cache
+C:\Users\andon\source\repos\exam26\exam26\obj\Debug\netcoreapp3.1\exam26.AssemblyInfoInputs.cache
+C:\Users\andon\source\repos\exam26\exam26\obj\Debug\netcoreapp3.1\exam26.AssemblyInfo.cs
+C:\Users\andon\source\repos\exam26\exam26\obj\Debug\netcoreapp3.1\exam26.csproj.CoreCompileInputs.cache
+C:\Users\andon\source\repos\exam26\exam26\obj\Debug\netcoreapp3.1\exam26.dll
+C:\Users\andon\source\repos\exam26\exam26\obj\Debug\netcoreapp3.1\exam26.pdb
+C:\Users\andon\source\repos\exam26\exam26\obj\Debug\netcoreapp3.1\exam26.genruntimeconfig.cache

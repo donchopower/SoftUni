@@ -1,0 +1,13 @@
+C:\Users\andon\source\repos\exam\bestPlayer\bin\Debug\netcoreapp3.1\bestPlayer.exe
+C:\Users\andon\source\repos\exam\bestPlayer\bin\Debug\netcoreapp3.1\bestPlayer.deps.json
+C:\Users\andon\source\repos\exam\bestPlayer\bin\Debug\netcoreapp3.1\bestPlayer.runtimeconfig.json
+C:\Users\andon\source\repos\exam\bestPlayer\bin\Debug\netcoreapp3.1\bestPlayer.runtimeconfig.dev.json
+C:\Users\andon\source\repos\exam\bestPlayer\bin\Debug\netcoreapp3.1\bestPlayer.dll
+C:\Users\andon\source\repos\exam\bestPlayer\bin\Debug\netcoreapp3.1\bestPlayer.pdb
+C:\Users\andon\source\repos\exam\bestPlayer\obj\Debug\netcoreapp3.1\bestPlayer.AssemblyInfoInputs.cache
+C:\Users\andon\source\repos\exam\bestPlayer\obj\Debug\netcoreapp3.1\bestPlayer.AssemblyInfo.cs
+C:\Users\andon\source\repos\exam\bestPlayer\obj\Debug\netcoreapp3.1\bestPlayer.csproj.CoreCompileInputs.cache
+C:\Users\andon\source\repos\exam\bestPlayer\obj\Debug\netcoreapp3.1\bestPlayer.dll
+C:\Users\andon\source\repos\exam\bestPlayer\obj\Debug\netcoreapp3.1\bestPlayer.pdb
+C:\Users\andon\source\repos\exam\bestPlayer\obj\Debug\netcoreapp3.1\bestPlayer.genruntimeconfig.cache
+C:\Users\andon\source\repos\exam\bestPlayer\obj\Debug\netcoreapp3.1\bestPlayer.csprojAssemblyReference.cache

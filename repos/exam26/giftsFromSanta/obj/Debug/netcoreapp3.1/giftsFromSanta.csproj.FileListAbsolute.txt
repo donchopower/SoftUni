@@ -1,0 +1,13 @@
+C:\Users\andon\source\repos\exam26\giftsFromSanta\bin\Debug\netcoreapp3.1\giftsFromSanta.exe
+C:\Users\andon\source\repos\exam26\giftsFromSanta\bin\Debug\netcoreapp3.1\giftsFromSanta.deps.json
+C:\Users\andon\source\repos\exam26\giftsFromSanta\bin\Debug\netcoreapp3.1\giftsFromSanta.runtimeconfig.json
+C:\Users\andon\source\repos\exam26\giftsFromSanta\bin\Debug\netcoreapp3.1\giftsFromSanta.runtimeconfig.dev.json
+C:\Users\andon\source\repos\exam26\giftsFromSanta\bin\Debug\netcoreapp3.1\giftsFromSanta.dll
+C:\Users\andon\source\repos\exam26\giftsFromSanta\bin\Debug\netcoreapp3.1\giftsFromSanta.pdb
+C:\Users\andon\source\repos\exam26\giftsFromSanta\obj\Debug\netcoreapp3.1\giftsFromSanta.csprojAssemblyReference.cache
+C:\Users\andon\source\repos\exam26\giftsFromSanta\obj\Debug\netcoreapp3.1\giftsFromSanta.AssemblyInfoInputs.cache
+C:\Users\andon\source\repos\exam26\giftsFromSanta\obj\Debug\netcoreapp3.1\giftsFromSanta.AssemblyInfo.cs
+C:\Users\andon\source\repos\exam26\giftsFromSanta\obj\Debug\netcoreapp3.1\giftsFromSanta.csproj.CoreCompileInputs.cache
+C:\Users\andon\source\repos\exam26\giftsFromSanta\obj\Debug\netcoreapp3.1\giftsFromSanta.dll
+C:\Users\andon\source\repos\exam26\giftsFromSanta\obj\Debug\netcoreapp3.1\giftsFromSanta.pdb
+C:\Users\andon\source\repos\exam26\giftsFromSanta\obj\Debug\netcoreapp3.1\giftsFromSanta.genruntimeconfig.cache

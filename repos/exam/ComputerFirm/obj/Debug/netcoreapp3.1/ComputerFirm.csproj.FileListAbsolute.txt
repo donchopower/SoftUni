@@ -1,0 +1,13 @@
+C:\Users\andon\source\repos\exam\ComputerFirm\bin\Debug\netcoreapp3.1\ComputerFirm.exe
+C:\Users\andon\source\repos\exam\ComputerFirm\bin\Debug\netcoreapp3.1\ComputerFirm.deps.json
+C:\Users\andon\source\repos\exam\ComputerFirm\bin\Debug\netcoreapp3.1\ComputerFirm.runtimeconfig.json
+C:\Users\andon\source\repos\exam\ComputerFirm\bin\Debug\netcoreapp3.1\ComputerFirm.runtimeconfig.dev.json
+C:\Users\andon\source\repos\exam\ComputerFirm\bin\Debug\netcoreapp3.1\ComputerFirm.dll
+C:\Users\andon\source\repos\exam\ComputerFirm\bin\Debug\netcoreapp3.1\ComputerFirm.pdb
+C:\Users\andon\source\repos\exam\ComputerFirm\obj\Debug\netcoreapp3.1\ComputerFirm.csprojAssemblyReference.cache
+C:\Users\andon\source\repos\exam\ComputerFirm\obj\Debug\netcoreapp3.1\ComputerFirm.AssemblyInfoInputs.cache
+C:\Users\andon\source\repos\exam\ComputerFirm\obj\Debug\netcoreapp3.1\ComputerFirm.AssemblyInfo.cs
+C:\Users\andon\source\repos\exam\ComputerFirm\obj\Debug\netcoreapp3.1\ComputerFirm.csproj.CoreCompileInputs.cache
+C:\Users\andon\source\repos\exam\ComputerFirm\obj\Debug\netcoreapp3.1\ComputerFirm.dll
+C:\Users\andon\source\repos\exam\ComputerFirm\obj\Debug\netcoreapp3.1\ComputerFirm.pdb
+C:\Users\andon\source\repos\exam\ComputerFirm\obj\Debug\netcoreapp3.1\ComputerFirm.genruntimeconfig.cache

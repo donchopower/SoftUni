@@ -1,0 +1,13 @@
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\ConditionalStatements - Exercise\bin\Debug\netcoreapp3.1\ConditionalStatements - Exercise.exe
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\ConditionalStatements - Exercise\bin\Debug\netcoreapp3.1\ConditionalStatements - Exercise.deps.json
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\ConditionalStatements - Exercise\bin\Debug\netcoreapp3.1\ConditionalStatements - Exercise.runtimeconfig.json
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\ConditionalStatements - Exercise\bin\Debug\netcoreapp3.1\ConditionalStatements - Exercise.runtimeconfig.dev.json
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\ConditionalStatements - Exercise\bin\Debug\netcoreapp3.1\ConditionalStatements - Exercise.dll
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\ConditionalStatements - Exercise\bin\Debug\netcoreapp3.1\ConditionalStatements - Exercise.pdb
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\ConditionalStatements - Exercise\obj\Debug\netcoreapp3.1\ConditionalStatements - Exercise.csprojAssemblyReference.cache
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\ConditionalStatements - Exercise\obj\Debug\netcoreapp3.1\ConditionalStatements - Exercise.AssemblyInfoInputs.cache
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\ConditionalStatements - Exercise\obj\Debug\netcoreapp3.1\ConditionalStatements - Exercise.AssemblyInfo.cs
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\ConditionalStatements - Exercise\obj\Debug\netcoreapp3.1\ConditionalStatements - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\ConditionalStatements - Exercise\obj\Debug\netcoreapp3.1\ConditionalStatements - Exercise.dll
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\ConditionalStatements - Exercise\obj\Debug\netcoreapp3.1\ConditionalStatements - Exercise.pdb
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\ConditionalStatements - Exercise\obj\Debug\netcoreapp3.1\ConditionalStatements - Exercise.genruntimeconfig.cache

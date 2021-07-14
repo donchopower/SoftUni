@@ -1,0 +1,12 @@
+C:\Users\andon\source\repos\exam26\goldMine\bin\Debug\netcoreapp3.1\goldMine.exe
+C:\Users\andon\source\repos\exam26\goldMine\bin\Debug\netcoreapp3.1\goldMine.deps.json
+C:\Users\andon\source\repos\exam26\goldMine\bin\Debug\netcoreapp3.1\goldMine.runtimeconfig.json
+C:\Users\andon\source\repos\exam26\goldMine\bin\Debug\netcoreapp3.1\goldMine.runtimeconfig.dev.json
+C:\Users\andon\source\repos\exam26\goldMine\bin\Debug\netcoreapp3.1\goldMine.dll
+C:\Users\andon\source\repos\exam26\goldMine\bin\Debug\netcoreapp3.1\goldMine.pdb
+C:\Users\andon\source\repos\exam26\goldMine\obj\Debug\netcoreapp3.1\goldMine.AssemblyInfoInputs.cache
+C:\Users\andon\source\repos\exam26\goldMine\obj\Debug\netcoreapp3.1\goldMine.AssemblyInfo.cs
+C:\Users\andon\source\repos\exam26\goldMine\obj\Debug\netcoreapp3.1\goldMine.csproj.CoreCompileInputs.cache
+C:\Users\andon\source\repos\exam26\goldMine\obj\Debug\netcoreapp3.1\goldMine.dll
+C:\Users\andon\source\repos\exam26\goldMine\obj\Debug\netcoreapp3.1\goldMine.pdb
+C:\Users\andon\source\repos\exam26\goldMine\obj\Debug\netcoreapp3.1\goldMine.genruntimeconfig.cache

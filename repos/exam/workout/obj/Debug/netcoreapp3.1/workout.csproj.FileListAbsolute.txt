@@ -1,0 +1,12 @@
+C:\Users\andon\source\repos\exam\workout\bin\Debug\netcoreapp3.1\workout.exe
+C:\Users\andon\source\repos\exam\workout\bin\Debug\netcoreapp3.1\workout.deps.json
+C:\Users\andon\source\repos\exam\workout\bin\Debug\netcoreapp3.1\workout.runtimeconfig.json
+C:\Users\andon\source\repos\exam\workout\bin\Debug\netcoreapp3.1\workout.runtimeconfig.dev.json
+C:\Users\andon\source\repos\exam\workout\bin\Debug\netcoreapp3.1\workout.dll
+C:\Users\andon\source\repos\exam\workout\bin\Debug\netcoreapp3.1\workout.pdb
+C:\Users\andon\source\repos\exam\workout\obj\Debug\netcoreapp3.1\workout.AssemblyInfoInputs.cache
+C:\Users\andon\source\repos\exam\workout\obj\Debug\netcoreapp3.1\workout.AssemblyInfo.cs
+C:\Users\andon\source\repos\exam\workout\obj\Debug\netcoreapp3.1\workout.csproj.CoreCompileInputs.cache
+C:\Users\andon\source\repos\exam\workout\obj\Debug\netcoreapp3.1\workout.dll
+C:\Users\andon\source\repos\exam\workout\obj\Debug\netcoreapp3.1\workout.pdb
+C:\Users\andon\source\repos\exam\workout\obj\Debug\netcoreapp3.1\workout.genruntimeconfig.cache

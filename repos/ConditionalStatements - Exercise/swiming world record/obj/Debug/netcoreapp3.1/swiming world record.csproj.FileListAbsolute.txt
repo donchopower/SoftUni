@@ -1,0 +1,13 @@
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\swiming world record\bin\Debug\netcoreapp3.1\swiming world record.exe
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\swiming world record\bin\Debug\netcoreapp3.1\swiming world record.deps.json
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\swiming world record\bin\Debug\netcoreapp3.1\swiming world record.runtimeconfig.json
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\swiming world record\bin\Debug\netcoreapp3.1\swiming world record.runtimeconfig.dev.json
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\swiming world record\bin\Debug\netcoreapp3.1\swiming world record.dll
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\swiming world record\bin\Debug\netcoreapp3.1\swiming world record.pdb
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\swiming world record\obj\Debug\netcoreapp3.1\swiming world record.csprojAssemblyReference.cache
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\swiming world record\obj\Debug\netcoreapp3.1\swiming world record.AssemblyInfoInputs.cache
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\swiming world record\obj\Debug\netcoreapp3.1\swiming world record.AssemblyInfo.cs
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\swiming world record\obj\Debug\netcoreapp3.1\swiming world record.csproj.CoreCompileInputs.cache
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\swiming world record\obj\Debug\netcoreapp3.1\swiming world record.dll
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\swiming world record\obj\Debug\netcoreapp3.1\swiming world record.pdb
+C:\Users\andon\source\repos\ConditionalStatements - Exercise\swiming world record\obj\Debug\netcoreapp3.1\swiming world record.genruntimeconfig.cache

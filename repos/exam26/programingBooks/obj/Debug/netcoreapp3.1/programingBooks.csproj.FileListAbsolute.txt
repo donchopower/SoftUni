@@ -1,0 +1,13 @@
+C:\Users\andon\source\repos\exam26\programingBooks\bin\Debug\netcoreapp3.1\programingBooks.exe
+C:\Users\andon\source\repos\exam26\programingBooks\bin\Debug\netcoreapp3.1\programingBooks.deps.json
+C:\Users\andon\source\repos\exam26\programingBooks\bin\Debug\netcoreapp3.1\programingBooks.runtimeconfig.json
+C:\Users\andon\source\repos\exam26\programingBooks\bin\Debug\netcoreapp3.1\programingBooks.runtimeconfig.dev.json
+C:\Users\andon\source\repos\exam26\programingBooks\bin\Debug\netcoreapp3.1\programingBooks.dll
+C:\Users\andon\source\repos\exam26\programingBooks\bin\Debug\netcoreapp3.1\programingBooks.pdb
+C:\Users\andon\source\repos\exam26\programingBooks\obj\Debug\netcoreapp3.1\programingBooks.csprojAssemblyReference.cache
+C:\Users\andon\source\repos\exam26\programingBooks\obj\Debug\netcoreapp3.1\programingBooks.AssemblyInfoInputs.cache
+C:\Users\andon\source\repos\exam26\programingBooks\obj\Debug\netcoreapp3.1\programingBooks.AssemblyInfo.cs
+C:\Users\andon\source\repos\exam26\programingBooks\obj\Debug\netcoreapp3.1\programingBooks.csproj.CoreCompileInputs.cache
+C:\Users\andon\source\repos\exam26\programingBooks\obj\Debug\netcoreapp3.1\programingBooks.dll
+C:\Users\andon\source\repos\exam26\programingBooks\obj\Debug\netcoreapp3.1\programingBooks.pdb
+C:\Users\andon\source\repos\exam26\programingBooks\obj\Debug\netcoreapp3.1\programingBooks.genruntimeconfig.cache

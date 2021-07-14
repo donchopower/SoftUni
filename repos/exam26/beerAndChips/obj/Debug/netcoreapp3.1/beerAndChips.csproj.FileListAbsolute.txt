@@ -1,0 +1,12 @@
+C:\Users\andon\source\repos\exam26\beerAndChips\bin\Debug\netcoreapp3.1\beerAndChips.exe
+C:\Users\andon\source\repos\exam26\beerAndChips\bin\Debug\netcoreapp3.1\beerAndChips.deps.json
+C:\Users\andon\source\repos\exam26\beerAndChips\bin\Debug\netcoreapp3.1\beerAndChips.runtimeconfig.json
+C:\Users\andon\source\repos\exam26\beerAndChips\bin\Debug\netcoreapp3.1\beerAndChips.runtimeconfig.dev.json
+C:\Users\andon\source\repos\exam26\beerAndChips\bin\Debug\netcoreapp3.1\beerAndChips.dll
+C:\Users\andon\source\repos\exam26\beerAndChips\bin\Debug\netcoreapp3.1\beerAndChips.pdb
+C:\Users\andon\source\repos\exam26\beerAndChips\obj\Debug\netcoreapp3.1\beerAndChips.AssemblyInfoInputs.cache
+C:\Users\andon\source\repos\exam26\beerAndChips\obj\Debug\netcoreapp3.1\beerAndChips.AssemblyInfo.cs
+C:\Users\andon\source\repos\exam26\beerAndChips\obj\Debug\netcoreapp3.1\beerAndChips.csproj.CoreCompileInputs.cache
+C:\Users\andon\source\repos\exam26\beerAndChips\obj\Debug\netcoreapp3.1\beerAndChips.dll
+C:\Users\andon\source\repos\exam26\beerAndChips\obj\Debug\netcoreapp3.1\beerAndChips.pdb
+C:\Users\andon\source\repos\exam26\beerAndChips\obj\Debug\netcoreapp3.1\beerAndChips.genruntimeconfig.cache

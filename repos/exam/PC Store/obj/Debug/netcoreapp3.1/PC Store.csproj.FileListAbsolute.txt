@@ -1,0 +1,13 @@
+C:\Users\andon\source\repos\exam\PC Store\bin\Debug\netcoreapp3.1\PC Store.exe
+C:\Users\andon\source\repos\exam\PC Store\bin\Debug\netcoreapp3.1\PC Store.deps.json
+C:\Users\andon\source\repos\exam\PC Store\bin\Debug\netcoreapp3.1\PC Store.runtimeconfig.json
+C:\Users\andon\source\repos\exam\PC Store\bin\Debug\netcoreapp3.1\PC Store.runtimeconfig.dev.json
+C:\Users\andon\source\repos\exam\PC Store\bin\Debug\netcoreapp3.1\PC Store.dll
+C:\Users\andon\source\repos\exam\PC Store\bin\Debug\netcoreapp3.1\PC Store.pdb
+C:\Users\andon\source\repos\exam\PC Store\obj\Debug\netcoreapp3.1\PC Store.csprojAssemblyReference.cache
+C:\Users\andon\source\repos\exam\PC Store\obj\Debug\netcoreapp3.1\PC Store.AssemblyInfoInputs.cache
+C:\Users\andon\source\repos\exam\PC Store\obj\Debug\netcoreapp3.1\PC Store.AssemblyInfo.cs
+C:\Users\andon\source\repos\exam\PC Store\obj\Debug\netcoreapp3.1\PC Store.csproj.CoreCompileInputs.cache
+C:\Users\andon\source\repos\exam\PC Store\obj\Debug\netcoreapp3.1\PC Store.dll
+C:\Users\andon\source\repos\exam\PC Store\obj\Debug\netcoreapp3.1\PC Store.pdb
+C:\Users\andon\source\repos\exam\PC Store\obj\Debug\netcoreapp3.1\PC Store.genruntimeconfig.cache

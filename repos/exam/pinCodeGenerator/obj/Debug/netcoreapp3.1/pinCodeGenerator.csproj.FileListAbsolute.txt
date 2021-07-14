@@ -1,0 +1,13 @@
+C:\Users\andon\source\repos\exam\pinCodeGenerator\bin\Debug\netcoreapp3.1\pinCodeGenerator.exe
+C:\Users\andon\source\repos\exam\pinCodeGenerator\bin\Debug\netcoreapp3.1\pinCodeGenerator.deps.json
+C:\Users\andon\source\repos\exam\pinCodeGenerator\bin\Debug\netcoreapp3.1\pinCodeGenerator.runtimeconfig.json
+C:\Users\andon\source\repos\exam\pinCodeGenerator\bin\Debug\netcoreapp3.1\pinCodeGenerator.runtimeconfig.dev.json
+C:\Users\andon\source\repos\exam\pinCodeGenerator\bin\Debug\netcoreapp3.1\pinCodeGenerator.dll
+C:\Users\andon\source\repos\exam\pinCodeGenerator\bin\Debug\netcoreapp3.1\pinCodeGenerator.pdb
+C:\Users\andon\source\repos\exam\pinCodeGenerator\obj\Debug\netcoreapp3.1\pinCodeGenerator.csprojAssemblyReference.cache
+C:\Users\andon\source\repos\exam\pinCodeGenerator\obj\Debug\netcoreapp3.1\pinCodeGenerator.AssemblyInfoInputs.cache
+C:\Users\andon\source\repos\exam\pinCodeGenerator\obj\Debug\netcoreapp3.1\pinCodeGenerator.AssemblyInfo.cs
+C:\Users\andon\source\repos\exam\pinCodeGenerator\obj\Debug\netcoreapp3.1\pinCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\andon\source\repos\exam\pinCodeGenerator\obj\Debug\netcoreapp3.1\pinCodeGenerator.dll
+C:\Users\andon\source\repos\exam\pinCodeGenerator\obj\Debug\netcoreapp3.1\pinCodeGenerator.pdb
+C:\Users\andon\source\repos\exam\pinCodeGenerator\obj\Debug\netcoreapp3.1\pinCodeGenerator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\andon\source\repos\exam\excoursions\bin\Debug\netcoreapp3.1\excoursions.exe
+C:\Users\andon\source\repos\exam\excoursions\bin\Debug\netcoreapp3.1\excoursions.deps.json
+C:\Users\andon\source\repos\exam\excoursions\bin\Debug\netcoreapp3.1\excoursions.runtimeconfig.json
+C:\Users\andon\source\repos\exam\excoursions\bin\Debug\netcoreapp3.1\excoursions.runtimeconfig.dev.json
+C:\Users\andon\source\repos\exam\excoursions\bin\Debug\netcoreapp3.1\excoursions.dll
+C:\Users\andon\source\repos\exam\excoursions\bin\Debug\netcoreapp3.1\excoursions.pdb
+C:\Users\andon\source\repos\exam\excoursions\obj\Debug\netcoreapp3.1\excoursions.csprojAssemblyReference.cache
+C:\Users\andon\source\repos\exam\excoursions\obj\Debug\netcoreapp3.1\excoursions.AssemblyInfoInputs.cache
+C:\Users\andon\source\repos\exam\excoursions\obj\Debug\netcoreapp3.1\excoursions.AssemblyInfo.cs
+C:\Users\andon\source\repos\exam\excoursions\obj\Debug\netcoreapp3.1\excoursions.csproj.CoreCompileInputs.cache
+C:\Users\andon\source\repos\exam\excoursions\obj\Debug\netcoreapp3.1\excoursions.dll
+C:\Users\andon\source\repos\exam\excoursions\obj\Debug\netcoreapp3.1\excoursions.pdb
+C:\Users\andon\source\repos\exam\excoursions\obj\Debug\netcoreapp3.1\excoursions.genruntimeconfig.cache
